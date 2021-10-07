@@ -1,4 +1,4 @@
-public class FishRunner{
+public class Dinps{
 public static void main(String[]args){
 Fish fish=new Fish();
 System.out.println(fish.make);
